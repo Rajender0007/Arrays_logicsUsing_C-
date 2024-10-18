@@ -1,0 +1,7 @@
+C:\Arrays\Arrays_Practice\Arrays_Practice\bin\Debug\Arrays_Practice.exe.config
+C:\Arrays\Arrays_Practice\Arrays_Practice\bin\Debug\Arrays_Practice.exe
+C:\Arrays\Arrays_Practice\Arrays_Practice\bin\Debug\Arrays_Practice.pdb
+C:\Arrays\Arrays_Practice\Arrays_Practice\obj\Debug\Arrays_Practice.csproj.AssemblyReference.cache
+C:\Arrays\Arrays_Practice\Arrays_Practice\obj\Debug\Arrays_Practice.csproj.CoreCompileInputs.cache
+C:\Arrays\Arrays_Practice\Arrays_Practice\obj\Debug\Arrays_Practice.exe
+C:\Arrays\Arrays_Practice\Arrays_Practice\obj\Debug\Arrays_Practice.pdb
