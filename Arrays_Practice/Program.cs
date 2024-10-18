@@ -5,8 +5,8 @@ namespace rajender
     {
         static void Main(string[] args)
         {
-            //hello
-            //This is Rajender thota and modified code here
+            //Hello world
+            
 
             #region Accept array number
             //Console.Write("Enter the element size:");
